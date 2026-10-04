@@ -1,6 +1,6 @@
 # Bonus — 4C và bài tập về nhà 1: tập val có nói thật không?
 
-Link notebook đã chạy: https://github.com/DAQuan-VinAI/Track04-Day18-2D-perception-detection-segmentation-keypoints/blob/main/lab_2d_perception_student.ipynb
+Link notebook đã chạy: ttps://www.kaggle.com/code/anhquanjerryus/track-4-lab-3
 
 Môi trường: Kaggle, Tesla T4, `ultralytics==8.4.171`, YOLO26n-pose, 40 epoch, imgsz 640, seed 0.
 Mọi con số dưới đây lấy từ output của ô 4C và ô "Bài tập về nhà 1" trong `lab_2d_perception_student.ipynb`.
